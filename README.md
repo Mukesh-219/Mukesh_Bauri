@@ -55,11 +55,18 @@ Currently exploring **DNS Security**, **AI-driven Threat Detection**, and **Web 
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Find Me Around the Web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Personal-Portfolio-red?style=flat&logo=dribbble)](YOUR_PORTFOLIO_OR_BLOG_URL)
-[![Email](https://img.shields.io/badge/Email-mukeshkbauri%40email.com-blue?style=flat&logo=gmail)](mailto:mukeshkbauri419@email.com)
----
+<p align="left">
+  <a href="https://linkedin.com/in/mukesh-bauri-626a3523a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Mukesh-219" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:mukeshbauri419@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
 ⭐ *Always learning, building, and securing the future of technology.*

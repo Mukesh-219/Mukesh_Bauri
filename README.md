@@ -32,7 +32,6 @@ Currently exploring **DNS Security**, **AI-driven Threat Detection**, and **Web 
 | 🔐 [Web Security Scanner](https://github.com/Jigisha-Diksha/Web-Security-Scanner) | Vulnerability assessment tool using **OWASP ZAP + DVWA** to detect SQLi, XSS, and CSRF. | Python, Flask, ZAP API |
 | 🌍 [iDNS – India DNS Resolver](https://github.com/Mukesh-219/iDNS) | Optimized **Unbound DNS Resolver** for fast, secure domain resolution with caching & DNSSEC validation. | C, Bash, Linux, Unbound |
 | ⚙️ [Accident Alert IoT System](https://github.com/Jigisha-Diksha/Accident-Alert-IoT-System) | IoT-based accident detection prototype using vibration sensors and GSM alerts for emergencies. | Arduino, Embedded C |
-| 🌐 [Event Portal – Aarambh](https://github.com/Jigisha-Diksha/Event-Portal-Aarambh) | Responsive web app for organizing and managing community events securely. | HTML, CSS, JavaScript |
 | 🧳 [AI Trip Planner](https://github.com/Mukesh-219/AI-Trip-Planner) | Personalized AI trip planner generating itineraries based on budget and preferences. | Python, Flask, OpenAI API |
 | 🧠 [Online Quiz App](https://github.com/Mukesh-219/Online-Quiz-App) | Interactive quiz platform with timer, score tracking, and user-friendly UI. | React, Node.js, MongoDB |
 | 💼 [MyPortfolio](https://github.com/Mukesh-219/MyPortfolio) | Personal portfolio website showcasing skills, projects, and achievements. | HTML, CSS, JavaScript, Bootstrap |

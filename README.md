@@ -56,10 +56,10 @@ Currently exploring **DNS Security**, **AI-driven Threat Detection**, and **Web 
 ---
 
 ### 🌐 Connect With Me
-📧 **mukeshbauri@gmail.com**  
-💼 [LinkedIn → linkedin.com/in/mukesh-bauri-626a3523a](https://linkedin.com/in/mukesh-bauri-626a3523a)  
-🐙 [GitHub → github.com/Mukesh-219](https://github.com/Mukesh-219)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Personal-Portfolio-red?style=flat&logo=dribbble)](YOUR_PORTFOLIO_OR_BLOG_URL)
+[![Email](https://img.shields.io/badge/Email-mukeshkbauri%40email.com-blue?style=flat&logo=gmail)](mailto:mukeshkbauri419@email.com)
 ---
 
 ⭐ *Always learning, building, and securing the future of technology.*
